@@ -18,7 +18,7 @@ A sample Node/express project using typescript
 ## Getting Started
 - Clone the repo
 
-`$ git clone `
+`$ git clone https://github.com/giwajossy/Typescript-express-starter.git`
 
 - Install dependencies by running
 

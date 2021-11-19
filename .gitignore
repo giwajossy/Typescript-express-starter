@@ -1,0 +1,5 @@
+# Dependencies
+/node_modules
+
+# Transpiled version of the App
+/build
